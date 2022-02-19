@@ -27,4 +27,4 @@ services:
         container_name: le fronted
     
 volumes:
-    - mongo:
+    - mongo:db_data
